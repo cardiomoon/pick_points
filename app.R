@@ -47,5 +47,3 @@ pick_points <- function(data=mtcars, x="wt", y="mpg") {
     
     runGadget(ui, server)
 }
-
-
